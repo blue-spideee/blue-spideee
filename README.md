@@ -1,6 +1,7 @@
+![Design and Development](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
+
 ## Hello, I am KM Fahim Mahmud
 ### Design and Development
-![Design and Development](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
 
 I’m a designer who codes. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Python; I can be as involved in your project as you need me to be; from the seed of the idea, code, creative direction, design and even the front-end and WordPress build. I build websites that delight and inform. ✌️
 
