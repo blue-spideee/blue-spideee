@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**blue-spideee/blue-spideee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a KM Fahim Mahmud from Bangladesh. I’m a designer who codes. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Python; I can be as involved in your project as you need me to be; from the seed of the idea, to sketches, creative direction, design, copywriting, system design, and even the front-end and WordPress build. I build websites that delight and inform. I do it well.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-spideee&theme=github_dark_icons=true)
 
 Here are some ideas to get you started:
 
