@@ -3,9 +3,9 @@
 ## Hello, I am KM Fahim Mahmud
 ### Design and Development
 
-I’m a designer who codes. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Python; I can be as involved in your project as you need me to be; from the seed of the idea, code, creative direction, design and even the front-end and WordPress build. I build websites that delight and inform. ✌️
+As a proficient designer with coding expertise, I am fully dedicated to my craft, working tirelessly day in and day out to explore the intricacies of HTML, CSS, and JavaScript. My commitment to your project knows no bounds, spanning from conceptualization to code implementation, creative direction, design, and the meticulous construction of frontend interfaces. My primary objective is to craft websites that captivate and enlighten, delivering excellence at every step of the process. ✌️
 
-Skills: REACT / JS / HTML / CSS / PYTHON
+Skills: JS / HTML / CSS / PYTHON
 
 - 📫 How to reach me: km.fahiim@gmail.com 
 
